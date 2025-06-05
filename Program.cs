@@ -1,3 +1,6 @@
-﻿Random random = new Random();
-for (int i = 0; i < 8 * 1024 * 1024; i++)
-    Console.Write(random.Next(0, 2));
+﻿//Random random = new Random();
+//for (int i = 0; i < 8 * 1024 * 1024; i++)
+//    Console.Write(random.Next(0, 2));
+
+
+Console.WriteLine("Zmiana");
